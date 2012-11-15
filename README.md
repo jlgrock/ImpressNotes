@@ -4,7 +4,7 @@ ImpressNotes
 A Simple Javascript extension to [ImpressJS] (https://github.com/bartaz/impress.js) by [Bartek Szopka] (https://github.com/bartaz) that allows you to include notes with 
 your presentation.
 
-This was originally developed by David Souther (@DavidSouther), and was modified by myself to be a bit
+This was originally developed by [David Souther] (https://github.com/DavidSouther), and was modified by myself to be a bit
 less intrusive to the library, which follows a more Aspect Oriented approach.
 
 To use this, just include the impress-notes.js tag after your require of the impress.js tag and then at any point in your
@@ -13,4 +13,4 @@ that will have the notes in it.  To use your notes, just store the html in a hid
 within each step of the presentation).
 
 For an example of how this works, please feel free to use the code found here:
-https://github.com/jlgrock/gitDemo
+(https://github.com/jlgrock/gitDemo)
