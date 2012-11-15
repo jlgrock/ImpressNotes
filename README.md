@@ -13,4 +13,4 @@ that will have the notes in it.  To use your notes, just store the html in a hid
 within each step of the presentation).
 
 For an example of how this works, please feel free to use the code found here:
-(https://github.com/jlgrock/gitDemo)
+https://github.com/jlgrock/gitDemo
