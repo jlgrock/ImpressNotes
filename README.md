@@ -1,7 +1,7 @@
 ImpressNotes
 ============
 
-A Simple Javascript extension to ImpressJS by Bartek Szopka (@bartaz) that allows you to include notes with 
+A Simple Javascript extension to [ImpressJS] (https://github.com/bartaz/impress.js) by [Bartek Szopka] (https://github.com/bartaz) that allows you to include notes with 
 your presentation.
 
 This was originally developed by David Souther (@DavidSouther), and was modified by myself to be a bit
