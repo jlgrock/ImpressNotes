@@ -14,5 +14,3 @@ within each step of the presentation).
 
 For an example of how this works, please feel free to use the code found here:
 https://github.com/jlgrock/gitDemo
-
-To deploy this to a web server, just execute the Gradle script or just drop the webapp folder in your web container.
